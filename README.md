@@ -1,23 +1,20 @@
-# Insight-Data-Engineering---Where-to-Live
+# Insight-Data-Engineering---Data Analytics
 Insight Data Engineering Project
 
 # Motivation
-Living community is very important, especially with the outbreak of COVID 19, the way people choose a place to live now might need to change. In addition to safety and convenience, nowadays, under COVID 19 pandemic, we might also need to consider while people do social distancing when it is necessary and how serious the pandemic is. My platform is to allow people, including students or house buyers to filter the place they plan to live by knowing safety, environment, and also the COVID-19 situation so that they can have a better idea.
+With the outbreak of COVID-19, our daily life has been changed a lot and now we get used to keeping a social distancing. For each state government, however, it is important to know the effectiveness of social distancing regarding COVID 19. Will social distancing prevent spreading the COVID 19? Is there any correlation between?  From a data analytics view, I will do some analysis on the relationship between social distancing and  COVID-19 case numbers.
 
 # Goal of Project
-It will be a platform for people(house buyers, renters, students) to know where to live. They can filter the area(s) by several choices, including the number of COVID 19 cases, how social distancing goes(this I need to figure out more), how many bus stations, how many metro stations, crime index, etc. By choosing the preferred choices, the area(s) on the map will pop up(in deeper or different colors), then the people can know this, or these can be the potential areas that I could consider to live.
+Based on 2 datasets - social distancing and COVID-19 case number, will apply Python and SQL to analyze the correlation between these 2 datasets. Finally, I will use Tableau to visualize the results. 
 
-Datasets: Social distancing, census data, COVID-19 case numbers, crime index, transportation data,  geo data(distance to school), hospital nearby, retail stores, and etc.
+Datasets: Social distancing, abd COVID-19 case numbers.
 
 # Data Source
 SafeGraph: social distancing dataset;
-Big Query: Census, COVID 19;
-Government Open Data - government official website
+COVID 19;
 
 # Technologies
 Spark
-Google Cloud Platform
-Google BigQuery
 SQL
 Python
 Tableau
