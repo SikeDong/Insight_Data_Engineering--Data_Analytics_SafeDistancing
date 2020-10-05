@@ -1,5 +1,5 @@
 # Insight-Data-Engineering---Data Analytics
-Insight Data Engineering Project
+Insight Data Engineering Project - Data Analytics
 
 # Problem
 As one of the biggest pandemics so far, COVID 19 has changed our daily life and even create a new word - social distancing. To each state government and the individual live in the state, it is important to know whether social distancing really works. 
