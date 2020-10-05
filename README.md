@@ -1,13 +1,13 @@
 # Insight-Data-Engineering---Data Analytics
 Insight Data Engineering Project
 
-# Motivation
-With the outbreak of COVID-19, our daily life has been changed a lot and now we get used to keeping a social distancing. For each state government, however, it is important to know the effectiveness of social distancing regarding COVID 19. Will social distancing prevent spreading the COVID 19? Is there any correlation between?  From a data analytics view, I will do some analysis on the relationship between social distancing and  COVID-19 case numbers.
+# Problem
+As one of the biggest pandemics so far, COVID 19 has changed our daily life and even create a new word - social distancing. To each state government and the individual live in the state, it is important to know whether social distancing really works. 
 
-# Goal of Project
-Based on 2 datasets - social distancing and COVID-19 case number, will apply Python and SQL to analyze the correlation between these 2 datasets. Finally, I will use Tableau to visualize the results. 
+My project will provide visualization to show whether there is any relationship between COVID 19 and people’s mobility. 
 
-Datasets: Social distancing, abd COVID-19 case numbers.
+# Goal/Solutions of Project
+Based on 2 datasets - social distancing and COVID-19 case number, I will apply PySpark and SQL to clean the data and analyze the relationship between COVID 19 and people's mobility, to find out whether keeping social distancing is helpful for preventing the spread of COVID 19. Finally, I will use Tableau to visualize the results.
 
 # Data Source
 SafeGraph: social distancing dataset;
