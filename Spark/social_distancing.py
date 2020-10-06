@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-
 import pyspark
 from pyspark.sql import SparkSession
 from pyspark.sql.functions import *
