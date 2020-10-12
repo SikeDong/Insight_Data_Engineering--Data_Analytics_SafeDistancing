@@ -31,8 +31,8 @@ df_sd_final.write\
         .format('jdbc')\
         .mode('overwrite')\
         .option('url', 'jdbc:postgresql://.../...')\
-        .option('dbtable', 'Your database')\
-        .option('user','Your username ')\
-        .option('password', 'Your password ')\
+        .option('dbtable', 'Your data table')\
+        .option('user','Your username')\
+        .option('password', 'Your password')\
         .option('driver','...')\
         .save()
