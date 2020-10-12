@@ -11,7 +11,7 @@ Based on 2 datasets - social distancing and COVID-19 case number, the goal of th
 1. [Data Source](README.md#Data Source)
 2. [Dashboard](README.md#Dashboard)
 3. [Conclusion](README.md#Conclusion)
-4. [Improvements](README.md#Future Improvements)
+4. [Future Improvements](README.md#Future Improvements)
 5. [Tech Stack](README.md#Tech Stack)
 6. [Demo](README.md#Demo)
 7. [Slides](README.md#Slides)
@@ -38,11 +38,11 @@ Adding more datasets will make the analysis more well-rounded.
 ![Image of Tech Stack](https://github.com/SikeDong/Insight_Data_Engineering--Data_Analytic_SafeDistancing/blob/master/Images/TechStack.png)
 
 ## Demo
-[Demo](https://public.tableau.com/views/COVID19SocialDistancing_Story/COVID19SSocialDistancing_Story?:language=en&:display_count=y&:origin=viz_share_link)
+[My Demo](https://public.tableau.com/views/COVID19SocialDistancing_Story/COVID19SSocialDistancing_Story?:language=en&:display_count=y&:origin=viz_share_link)
 Please have a look for my whole visualizations by Tableau.
 
 ## Slides
 Here is my slides: 
-[Slides](https://https://docs.google.com/presentation/d/1Y4QQotyZhqJTQIB9IPosiE2lF6fg8_QJHbZusUrwjlc/edit?usp=sharing)
+[My Presentation Slides](https://https://docs.google.com/presentation/d/1Y4QQotyZhqJTQIB9IPosiE2lF6fg8_QJHbZusUrwjlc/edit?usp=sharing)
 
 
