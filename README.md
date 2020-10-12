@@ -1,5 +1,4 @@
-# Insight-Data-Engineering---Data Analytics
-Insight Data Engineering Project - Data Analytics - SafeDistancing
+# Insight-Data-Engineering---Data Analytics - SafeDistancing
 
 ## Problem
 As one of the biggest pandemics so far, COVID 19 has changed our daily life and even create a new word - social distancing. To each state government and the individual live in the state, it is important to know whether social distancing really works. My project will provide visualization to show whether social distancing with COVID 19 is absolute safety? How strong the relationship between social distancing and COVID 19 is?
@@ -7,22 +6,21 @@ As one of the biggest pandemics so far, COVID 19 has changed our daily life and 
 ## Goal/Solutions of Project
 Based on 2 datasets - social distancing and COVID-19 case number, the goal of this project is to prove the relationship between COVID 19 and people’s mobility and how strong it is.
 
+## Dashboard
+![Image of Dashboard](Images/Dashboard.png)
+Note: This is how the dashboard looks like.
+
 ## Table of Contents
 1. [Dataset](README.md#Datasets)
-2. [Dashboard](README.md#Dashboard)
-3. [Conclusion](README.md#Conclusion)
-4. [Improvements](README.md#NextSteps)
-5. [Tech](README.md#TechStack)
-6. [Demo](README.md#Demo)
-7. [Slides](README.md#Slides)
+2. [Conclusion](README.md#Conclusion)
+3. [Improvements](README.md#NextSteps)
+4. [Tech](README.md#TechStack)
+5. [Demo](README.md#Demo)
+6. [Slides](README.md#Slides)
 
 ## Datasets
 ![Image of SafeGraph](Images/DataSource_1.png) <br />
 ![Image of COVID 19 Data](Images/DataSource_2.png)
-
-## Dashboard
-![Image of Dashboard](Images/Dashboard.png)
-Note: This is how the dashboard looks like
 
 ## Conclusion
 By a first step analysis, it is clear to see keeping a social distancing do help for preventing the spread of COVID 19 - Non home dwell time do have positive relationship with case numbers, though not very strong. However, social distancing is not the only determined factor on preventing the spread of COVID 19, whether people wear masks or wash their hands properly also matters a lot.
