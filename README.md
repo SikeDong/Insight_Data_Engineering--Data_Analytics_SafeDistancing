@@ -17,7 +17,7 @@ Based on 2 datasets - social distancing and COVID-19 case number, the goal of th
 7. [Slides](README.md#Slides)
 
 ## Datasets
-![Image of SafeGraph](Images/DataSource_1.png) 
+![Image of SafeGraph](Images/DataSource_1.png) <br />
 ![Image of COVID 19 Data](Images/DataSource_2.png)
 
 ## Dashboard
@@ -38,11 +38,11 @@ Adding more datasets will make the analysis more well-rounded.
 ![Image of Tech Stack](Images/TechStack.png)
 
 ## Demo
+Please have a look for my whole visualizations by Tableau:
 [My Demo](https://public.tableau.com/views/COVID19SocialDistancing_Story/COVID19SSocialDistancing_Story?:language=en&:display_count=y&:origin=viz_share_link)
-Please have a look for my whole visualizations by Tableau.
 
 ## Slides
 Here is my slides: 
-[My Presentation Slides](https://https://docs.google.com/presentation/d/1Y4QQotyZhqJTQIB9IPosiE2lF6fg8_QJHbZusUrwjlc/edit?usp=sharing)
+[My Presentation Slides](https://docs.google.com/presentation/d/1Y4QQotyZhqJTQIB9IPosiE2lF6fg8_QJHbZusUrwjlc/edit?usp=sharing)
 
 
