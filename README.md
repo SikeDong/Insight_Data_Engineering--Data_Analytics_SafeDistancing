@@ -29,8 +29,8 @@ Note: This is how the dashboard looks like.
 ## NextSteps
 Adding more datasets will make the analysis more well-rounded.
 * Social Distancing dataset should be more detailed and specific - current dataset only have non home dwell time, home dwell time, and etc. which are too general.
-* Adding data for time lag between case numbers and people mobility will make the story be more practical. 
-* Combining with Census data(population, age, and etc.) will make the story more comprehended and specific for different states. 
+* Adding data for time lag between case numbers and people mobility will make the story be more practical and can be used for governments to know their state situatin. 
+* Combining with Census data(population, age, and etc.) will make the story more comprehended and specific for different states, e.g. why NY has the highest death cases? 
 * Adding data of wearing mask, washing hands and etc. would give a deeper analysis on COVID 19 factors and their impact.
 
 ## TechStack
