@@ -8,7 +8,7 @@ spark = SparkSession \
     .appName("how to read csv file") \
     .getOrCreate()
 
-# processing raw data
+# Processing the raw data
 # read data from S3
 df = spark.read.option("escape", "\"").csv("s3a://.../...", header = True)
 
@@ -20,10 +20,11 @@ df_sd_num = df_sd.withColumn("distance_traveled_from_home", df_sd["distance_trav
 
 # cast data type of "date_range_start" to date
 df_sd_date = df_sd_num.withColumn("date",to_date(col('date_range_start')).alias('date').cast("date"))
+
 # substract information from fips code("origin_census_block_group" and save into State
 df_sd_state = df_sd_date.withColumn("State", df.origin_census_block_group.substr(0,2))
 
-# scale up data to daily basis, and in different states
+# scale up data to daily basis, group by date and states
 df_sd_final = df_sd_state.groupBy("date","State").sum("distance_traveled_from_home", "median_home_dwell_time", "part_time_work_behavior_devices", "full_time_work_behavior_devices", "median_non_home_dwell_time")
 
 # write data into database
